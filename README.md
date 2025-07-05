@@ -1,7 +1,5 @@
 # 0G-LABS-STORAGE-NODE-RUN-GUIDE-BY-BINDAS-TRICK
 
-# 0G-LABS-STORAGE-NODE-RUN-GUIDE-BY-BINDAS TRICK
-
 # 😱😱 0G-LABS-STORAGE-NODE-RUN-GUIDE-BY-BINDAS TRICK
 
 > 🚀 Complete guide to run your own 0G Labs Storage Node with snapshot support, logs monitoring, and systemd service setup.  
